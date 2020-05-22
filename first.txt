@@ -4,3 +4,4 @@ Git の練習ファイルです。
 ・git commit
 ・git rm
 ・git status
+・vscodeとの連携
