@@ -5,3 +5,4 @@ Git の練習ファイルです。
 ・git rm
 ・git status
 ・vscodeとの連携
+・git diff
